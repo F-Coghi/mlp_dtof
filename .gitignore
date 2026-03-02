@@ -15,8 +15,5 @@ sim_dtof_milano/
 ProcessedPoisson/
 Autoencoder/autoencoder_model
 
-# outputs
-*.png
-
 # OS
 .DS_Store
