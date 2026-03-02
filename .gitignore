@@ -1,0 +1,22 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# virtual env
+.venv/
+venv/
+.env
+
+# data (not public yet)
+sim_dtof_milano/
+ProcessedPoisson/
+Autoencoder/autoencoder_model
+
+# outputs
+*.png
+
+# OS
+.DS_Store
